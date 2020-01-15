@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(40, 207, 174);
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
+header {
+    background-color: rgb(255,255,255) ;
+}
+
+a {color: #000;
+    text-decoration: none
+}
+ul { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#doc-header{
+    background-color: yellow;
+}
+
+.rot{
+    background-color: red;
+}
